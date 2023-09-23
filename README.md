@@ -40,6 +40,8 @@ Dataset available [here](https://www.kaggle.com/datasets/gregorut/videogamesales
 5) Pandas
 6) Numpy
 
+### Notebook Available in the attachments. 
+
 # Data View
 ![Here](images/Data_View.png)
 # Plots from the Notebook
