@@ -40,5 +40,5 @@ Dataset available [here](https://www.kaggle.com/datasets/gregorut/videogamesales
 5) Pandas
 6) Numpy
 
-Workbook can be found [here](Video Game analysis.ipynb)
+Workbook can be found [here](Video Game analysis.md)
 
