@@ -40,5 +40,14 @@ Dataset available [here](https://www.kaggle.com/datasets/gregorut/videogamesales
 5) Pandas
 6) Numpy
 
-Workbook can be found [here](Video Game analysis.md)
+# Data View
+![Data_View](https://github.com/PrajwalVMani/Video_Game_Analysis/assets/145823366/a59c7943-b618-4b2b-8e7f-5ca329518e68)
+
+# Plots from the Notebook
+
+## Genre with the most Games:
+![Most_games](https://github.com/PrajwalVMani/Video_Game_Analysis/assets/145823366/af230f81-b552-4f02-aadd-9e2075eb0764)
+
+## Top 20 Publishers
+![top_publish](https://github.com/PrajwalVMani/Video_Game_Analysis/assets/145823366/338f2a4d-f52a-40a9-8a21-5577dc240359)
 
