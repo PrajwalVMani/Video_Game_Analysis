@@ -30,7 +30,7 @@ Fields include
 10) Other_Sales - Sales in the rest of the world (in millions)
 11) Global_Sales - Total worldwide sales.
 
-Dataset available [here](images/Data_View.png "Original Image")
+Dataset available [here](https://www.kaggle.com/datasets/gregorut/videogamesales?resource=download)
 
 # Prerequisites:
 1) Python
@@ -41,13 +41,12 @@ Dataset available [here](images/Data_View.png "Original Image")
 6) Numpy
 
 # Data View
-![Data_View](https://github.com/PrajwalVMani/Video_Game_Analysis/assets/145823366/a59c7943-b618-4b2b-8e7f-5ca329518e68)
-
+![Here](images/Data_View.png)
 # Plots from the Notebook
 
 ## Genre with the most Games:
-![Most_games](https://github.com/PrajwalVMani/Video_Game_Analysis/assets/145823366/af230f81-b552-4f02-aadd-9e2075eb0764)
+![Here](images/Most_games.png)
 
 ## Top 20 Publishers
-![top_publish](https://github.com/PrajwalVMani/Video_Game_Analysis/assets/145823366/338f2a4d-f52a-40a9-8a21-5577dc240359)
+![Here](images/top_publish.png)
 
