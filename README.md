@@ -38,3 +38,5 @@ Global_Sales - Total worldwide sales.
 5) Pandas
 6) Numpy
 
+### Workbook can be found [here](Video Game analysis.ipynb)
+
