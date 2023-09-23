@@ -30,6 +30,8 @@ JP_Sales - Sales in Japan (in millions)
 Other_Sales - Sales in the rest of the world (in millions)
 Global_Sales - Total worldwide sales.
 
+Dataset available [here](https://www.kaggle.com/datasets/gregorut/videogamesales?resource=download)
+
 # Prerequisites:
 1) Python
 2) Jupyter Notebook
@@ -38,5 +40,5 @@ Global_Sales - Total worldwide sales.
 5) Pandas
 6) Numpy
 
-Workbook can be found [here](Video Game analysis.ipynb).
+Workbook can be found [here](Video Game analysis.ipynb)
 
