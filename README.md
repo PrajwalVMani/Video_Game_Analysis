@@ -30,7 +30,7 @@ Fields include
 10) Other_Sales - Sales in the rest of the world (in millions)
 11) Global_Sales - Total worldwide sales.
 
-Dataset available [here](https://www.kaggle.com/datasets/gregorut/videogamesales?resource=download)
+Dataset available [here](images/Data_View.png "Original Image")
 
 # Prerequisites:
 1) Python
